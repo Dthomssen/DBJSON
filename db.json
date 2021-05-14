@@ -1,0 +1,11 @@
+{
+
+"searchLIN": [
+
+{ "id": 1, "LIN": 123456789012, "person": "Alexander Nagelberg" },
+
+{ "id": 2, "LIN": 234567890123, "person": "Sandip" }
+
+]
+
+}
